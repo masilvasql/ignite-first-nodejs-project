@@ -1,0 +1,14 @@
+{
+  "name": "ignite-first-nodejs-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/masilvasql/ignite-first-nodejs-project.git",
+  "author": "<masilvasql@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
